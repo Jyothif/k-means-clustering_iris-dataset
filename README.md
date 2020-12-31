@@ -16,7 +16,7 @@ The columns in this dataset are:
  * `Python = 3.7`
  * `numpy,pandas,matplotlib`
  * `scikit-learn`
- (Data source) :[https://github.com/Jyothif/k-means-clustering_iris-dataset/blob/main/Iris.csv]
+ [Data source]:(https://github.com/Jyothif/k-means-clustering_iris-dataset/blob/main/Iris.csv)
  
 # Data cleaing: data is very clean
 time to Data exploration.
